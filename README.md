@@ -17,9 +17,7 @@ This repository contains implementations and experiments with Multi-Armed Bandit
    ```bash
    git clone https://github.com/your-username/multi-armed-bandits.git
    cd multi-armed-bandits
-  python3 -m venv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
+
 
 ## License
 
